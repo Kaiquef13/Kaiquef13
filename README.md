@@ -49,8 +49,7 @@ Contacte me: <a href = "mailto:kaiquefigueiredo13@gmail.com"><img  align="center
 
 
 </a>
-
-  ![Snake animation](https://github.com/Kaiquef13/Kaiquef13/blob/output/github-contribution-grid-snake.svg)
+  ![snake gif](https://github.com/Kaiquef13/Kaiquef13/blob/output/github-contribution-grid-snake.svg)
  
 </div>
 
